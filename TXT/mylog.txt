@@ -20,3 +20,5 @@ ZCZC W01 20 L03 GitHub related
 ZCZC W01 2520 L84 Relax, Rest, Nap, and Sleep
 ZCZC W01 300 L88 Workout/Sport/Exercise/ETC
 ZCZC W01 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 60 L06 References/Books/Documents/Browsing/GSGS related
