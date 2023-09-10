@@ -13,3 +13,10 @@ ZCZC W00 50 L03 GitHub and git related, including commit, push, pull
 ZCZC W00 300 L88 Workout/Sport/Exercise/ETC
 ZCZC W00 15 L09 Assignment in General
 ZCZC W00 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 130 L05 Quiz related including studying
+ZCZC W01 80 L01 SCELE/Discord related
+ZCZC W01 180 15 L09 Assignment in General
+ZCZC W01 20 L03 GitHub related
+ZCZC W01 2520 L84 Relax, Rest, Nap, and Sleep
+ZCZC W01 300 L88 Workout/Sport/Exercise/ETC
+ZCZC W01 20 L03 GitHub and git related, including commit, push, pull
