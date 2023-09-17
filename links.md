@@ -11,3 +11,9 @@ This video explains about linux
 
 [Git & Github](https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&feature=shared)
 This is a playlist about git and github
+
+[Operating System Concepts](https://www.os-book.com/OS10/slide-dir/) Slides of Operating System Concepts from Silberschatz, Galvin and Gagne
+
+[Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc) Introduction video to cyber security
+
+[Docker Crash Course Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7&feature=shared) A playlist to learn docker
