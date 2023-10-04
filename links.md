@@ -23,3 +23,5 @@ This is a playlist about git and github
 [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) about file systems
 
 [FUSE](https://www.kernel.org/doc/html/next/filesystems/fuse.html) Documentation about FUSE
+
+[Shared Libraries](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html) Documentation of shared libraries
