@@ -25,3 +25,5 @@ This is a playlist about git and github
 [FUSE](https://www.kernel.org/doc/html/next/filesystems/fuse.html) Documentation about FUSE
 
 [Shared Libraries](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html) Documentation of shared libraries
+
+[Virtual Memory](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX) A playlist to learn about virtual memory
