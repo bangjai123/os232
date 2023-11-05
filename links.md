@@ -27,3 +27,9 @@ This is a playlist about git and github
 [Shared Libraries](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html) Documentation of shared libraries
 
 [Virtual Memory](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX) A playlist to learn about virtual memory
+
+[fork() in linux](https://www.youtube.com/watch?v=CaWgJIbwb-4) A video about fork function in linux
+
+[The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) A video about fork funtion in C
+
+[fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY) A video about fork() and exec()
