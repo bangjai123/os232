@@ -1,6 +1,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W07 45 L01 SCELE/Discord related
+ZCZC W07 30 L03 GitHub related
+ZCZC W07 300 L88 Workout/Sport/Exercise/ETC
+ZCZC W07 300 15 L09 Assignment in General
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 70 L05 Quiz related including studying
+ZCZC W07 2520 L84 Relax, Rest, Nap, and Sleep
+ZCZC W07 20 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W07 50 L03 GitHub and git related, including commit, push, pull
 ZCZC W06 45 L01 SCELE/Discord related
 ZCZC W06 30 L03 GitHub related
 ZCZC W06 300 L88 Workout/Sport/Exercise/ETC

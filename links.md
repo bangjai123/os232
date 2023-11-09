@@ -33,3 +33,9 @@ This is a playlist about git and github
 [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) A video about fork funtion in C
 
 [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY) A video about fork() and exec()
+
+[Process Sychronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) A video about Sychronization
+
+[Semaphores](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) A video about semaphore
+
+[Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY) A video about deadlock
