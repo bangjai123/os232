@@ -39,3 +39,5 @@ This is a playlist about git and github
 [Semaphores](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) A video about semaphore
 
 [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY) A video about deadlock
+
+[Build linux from scratch playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) A playlist to help building linux from scracth
